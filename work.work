@@ -9,3 +9,7 @@ specify all files to commit: git add -A
 
 save a snapshot of the repository: git commit -m
 
+review past commits: git log
+
+add a remote repository: git remote add <origin> <remote url location>
+

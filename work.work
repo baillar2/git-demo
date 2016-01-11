@@ -1,3 +1,11 @@
 work work work 
 work work work
 blah blah blah blah
+create a new git repository from a folder: git init
+
+learn about the status of repository: git status
+
+specify all files to commit: git add -A
+
+save a snapshot of the repository: git commit -m
+
